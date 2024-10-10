@@ -1,6 +1,6 @@
 👋 Hi there! 
 
-I'm Sadiya, and I am a B.Tech graduate in Computer Science and Engineering with strong programming skills with a passion for data analytics. I love diving into data to uncover insights and drive informed decision-making.
+I'm Sadiya, and I am a B.Tech graduate in Computer Science and Engineering with strong programming skills and a passion for data analytics. I love diving into data to uncover insights and drive informed decision-making.
 
 📣📣 Currently, you can find me reading about the latest trends in data science or working on personal projects that challenge my analytical skills.
 
